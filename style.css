@@ -14,3 +14,38 @@
 .btn-secondary{
     background-color: black;
 }
+.textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+/* Footer Section */
+.footer-section {
+    background-color: #1a1a1a;
+    color: #fff;
+}
+
+.footer-section h5 {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.footer-section p, .footer-section a {
+    color: #ccc;
+}
+
+.footer-section a:hover {
+    color: #fff;
+}
+
+.footer-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-section ul li {
+    margin-bottom: 5px;
+}
